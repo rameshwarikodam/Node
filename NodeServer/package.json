@@ -1,0 +1,19 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Simple Server Creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rameshwarikodam/Node"
+  },
+  "author": "Rameshwari Kodam",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
+}
